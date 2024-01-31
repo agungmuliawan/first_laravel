@@ -19,6 +19,9 @@ Route::get('/', function () {
 // Route::get('blog', function () {
 //     return view('blog');
 // });
+Route::get('blog', function () {
+    return view('blog');
+});
 
 Route::get('/chat', function () {
     echo 'nama saya agung muliawan';

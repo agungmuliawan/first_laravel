@@ -9,7 +9,7 @@
 
 <body>
     Belajar routes
-    {{$name}}
+    
 </body>
 
 </html>
